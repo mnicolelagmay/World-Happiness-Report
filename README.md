@@ -1,5 +1,5 @@
 
-In this project, I analyzed the data from the 2024 World Happiness Report using basic SQL queries.
+In this project, I analyzed the data from the 2024 World Happiness Report using SQL queries.
 
 The dataset was sourced from https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated?resource=download
 
